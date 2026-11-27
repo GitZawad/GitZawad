@@ -48,7 +48,7 @@ My interests lie in developing intelligent applications, understanding modern AI
 ### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,react,nextjs,mysql,git,github,vscode,linux" />
 </p>
 
 **Core Knowledge**
@@ -117,14 +117,7 @@ I enjoy exploring research problems, understanding existing approaches, and iden
 - 🥇 **Zhengzhou University Outstanding Student Award — 2026**
 - 🎓 **Henan Provincial Government Scholarship** — Full-tuition scholarship for undergraduate studies.
 - 🏅 First Prize — One Belt and One Road and My Hometown Essay Competition (2024).
-- 📈 Ranked first in class every semester.
-
-## 🌐 Languages & Certifications
-
-- English — IELTS 7.0
-- Chinese — HSK Level 3 (299/300)
-- Bangla
-- Hindi
+- 📈 Ranked first in class every semester. 
 
 ## 📊 GitHub Statistics
 

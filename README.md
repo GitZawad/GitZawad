@@ -24,8 +24,6 @@ I'm a Software Engineering undergraduate at **Zhengzhou University, China**, pas
 My interests lie in developing intelligent applications, understanding modern AI architectures, and exploring research opportunities in machine learning and large language models.
 
 - 🎓 BSc in Software Engineering — Zhengzhou University
-- 📊 Current CGPA: **3.79 / 4.00**
-- 🏆 Ranked first in my class every semester
 - 🔬 Interested in Machine Learning, Deep Learning, NLP, and LLMs
 - 💻 Experienced with Python, Java, C, and application development
 - 🌱 Currently strengthening my foundations in Deep Learning and AI research

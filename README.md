@@ -46,7 +46,7 @@ My interests lie in developing intelligent applications, understanding modern AI
 ### Development & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,react,nextjs,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=androidstudio,html,css,tailwindcss,js,react,nextjs,mongodb,mysql,git,github,vscode,linux" />
 </p>
 
 **Core Knowledge**

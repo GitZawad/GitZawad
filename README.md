@@ -60,6 +60,8 @@ My interests lie in developing intelligent applications, understanding modern AI
 - Computer Organization and Architecture
 - Software Development Methodologies
 
+<!-- 
+
 ## 🚀 Featured Projects
 
 ### 1. Heart Disease Classification
@@ -83,6 +85,8 @@ A collection of my learning exercises, implementations, and projects while study
 - Practical Python implementations
 
 🔗 [View Repository](https://github.com/GitZawad/Machine-Learning-Specialization-Coursera)
+
+-->
 
 ## 🔬 Research Interests
 
@@ -110,14 +114,6 @@ I enjoy exploring research problems, understanding existing approaches, and iden
 - Accepted by IJATCSE.
 
 *Publication metadata and article links will be added when available.*
-
-## 🏆 Awards & Achievements
-
-- 🥇 **Zhengzhou University Outstanding Student Award — 2024**
-- 🥇 **Zhengzhou University Outstanding Student Award — 2026**
-- 🎓 **Henan Provincial Government Scholarship** — Full-tuition scholarship for undergraduate studies.
-- 🏅 First Prize — One Belt and One Road and My Hometown Essay Competition (2024).
-- 📈 Ranked first in class every semester. 
 
 ## 📊 GitHub Statistics
 
